@@ -1,0 +1,33 @@
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.exe
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/Hqub.MusicBrainz.API.dll
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CopyComplete
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/Hqub.MusicBrainz.API.dll
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache

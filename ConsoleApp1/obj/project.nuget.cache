@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "leVmK14cdubwngALQ3AP+jUjEkqX45wuAukKGg4oKXQ92mXkS6i3ylceRwaVfKeKRLOvg2zIy1Sop0UWLITLTA==",
+  "success": true,
+  "projectFilePath": "/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/MoonJ/.nuget/packages/musicbrainzapi/2.4.0/musicbrainzapi.2.4.0.nupkg.sha512",
+    "/Users/MoonJ/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
+    "/Users/MoonJ/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512",
+    "/Users/MoonJ/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
