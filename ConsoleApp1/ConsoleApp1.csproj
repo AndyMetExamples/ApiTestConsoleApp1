@@ -7,7 +7,14 @@
 
   <ItemGroup>
     <PackageReference Include="MusicBrainzAPI" Version="2.4.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
     <PackageReference Include="System.Net.Http.Json" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="MusicBrainzNugetAdapation.cs" />
+    <Compile Remove="MusicBrainzNugetExample1.cs" />
   </ItemGroup>
 
 </Project>

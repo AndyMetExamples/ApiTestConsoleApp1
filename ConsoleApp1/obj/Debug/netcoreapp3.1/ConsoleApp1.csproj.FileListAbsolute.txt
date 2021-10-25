@@ -31,3 +31,5 @@ C:/Users/andrew.metcalfe/source/repos/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/n
 /Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
 /Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
 /Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/MoonJ/OneDrive/YAS files/code backup/ApiTestConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
