@@ -6,5 +6,7 @@ Console app to display the average number of words in an artists lyrics. Uses a 
 
 As mentioned above, at first glance I didn't find the musicbrainz.org documentation very clear so I thought using one of the musicbrainz NuGet packages might be easier/quicker but the one I picked was not that intuitive (to me) either, So I had to experiment within Postman to figure out a query to get the data required.
 
+To run the app, clone it (if using Visual Studio set the ConsoleApp1 to be the Startup project, other IDE's should be fine too, I created this in jetbrains Rider, which was another learning experience) then run/debug the app.
+
 
 
